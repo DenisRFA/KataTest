@@ -88,12 +88,6 @@ public class Main {
                 int r1 = romes1.getArabian();
                 int r2 = romes2.getArabian();
 
-
-
-
-
-
-
                 int res = 0;
 
                 switch (tokens[1]) {
