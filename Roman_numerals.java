@@ -15,5 +15,5 @@ public enum Roman_numerals {
     public int getArabian(){
         return arabian;
     }
-    public String getRome(){return rome;}
+    
 }
