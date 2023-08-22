@@ -1,4 +1,4 @@
-package Calculator;
+Apackage Calculator;
 import java.util.Scanner;
 
 public class Blacklist_aqa {
