@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class test_aqa {
     public static void main(String[] args) throws Exception {
+        System.out.println("Введите арифмитическое выражение через пробел:");
         Scanner scan = new Scanner(System.in);
         String input = scan.nextLine();
         calculator(input);
